@@ -4,9 +4,6 @@ API Básica em Java
 
 MODELO PARA READM DO GITHUB
 
-Inserir informações sobre o desenvolvimento da API 
-
-
 __________________________
 **DESENVOLVIMENTO DE API BÁSICA**
 * *Essa Api foi desenvolvida utilizando:*
@@ -41,13 +38,13 @@ POST e GET
 
 
 
+Referências: 
 
 
 
 
 
-
-
+Rodapé: Essa é uma simples nota de rodapé[^1].
 
 
 
