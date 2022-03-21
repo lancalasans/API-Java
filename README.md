@@ -1,9 +1,6 @@
 # API-Java
 API Básica em Java
 
-
-MODELO PARA READM DO GITHUB
-
 __________________________
 **DESENVOLVIMENTO DE API BÁSICA**
 * *Essa Api foi desenvolvida utilizando:*
