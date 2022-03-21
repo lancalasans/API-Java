@@ -41,7 +41,11 @@ POST e GET
 Referências: 
 
 ![AlgaWorks](https://www.youtube.com/watch?v=9GWK9A79tEc)
+
+
 ![Camila Cavalcante](https://github.com/cami-la)
+
+
 ![Dio](https://www.dio.me/)
 
 
