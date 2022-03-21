@@ -16,8 +16,8 @@ __________________________
 * Maven
 * Lombok
 
-
-caso o lombok não esteja instalado no spring tools
+**Atenção**
+Caso o lombok não esteja instalado no spring tools
 realizar a configuração
 
 Link de referência para configurar o Lombook no Spring tools Suite
@@ -40,11 +40,17 @@ POST e GET
 
 Referências: 
 
+![AlgaWorks](https://www.youtube.com/watch?v=9GWK9A79tEc)
+![Camila Cavalcante](https://github.com/cami-la)
+![Dio](https://www.dio.me/)
 
 
 
 
-Rodapé: Essa é uma simples nota de rodapé[^1].
+
+
+
+
 
 
 
